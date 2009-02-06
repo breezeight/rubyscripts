@@ -1,3 +1,4 @@
+#!/usr/bin/ruby
 if ARGV.size != 1
         puts "USAGE: replace -i <input> -r <regexp> "
         exit
