@@ -1,0 +1,5 @@
+RSYNC="/usr/bin/rsync"
+BACKUPSPOOL="/home/nicola/backupspool"
+BACKUPPIDFILE="/home/nicola/backuppid"
+BACKUPDIR="/tmp/backup"
+SOURCEDIRS="/home/nicola/backupdir"
